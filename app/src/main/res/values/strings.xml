@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tarea_Convertidor</string>
+    <string name="Convertir">Convertir</string>
+    <string name="txt_convertir">Ingrese el valor en libras</string>
+    <string name="conversion_resultado">Resultado de la conversion</string>
+</resources>
